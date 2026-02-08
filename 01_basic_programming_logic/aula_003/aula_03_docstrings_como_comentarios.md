@@ -43,8 +43,12 @@ Linhas com # são ignoradas.
 Docstrings são lidas, viram uma string na memória, mas se não estiverem sendo usadas, o programa apenas segue em frente.
 
 ---
-## Conclusão
 
-* '#' é o comentário real do Python (ignorado pelo interpretador).
-
-* " " " / ' ' ' criam docstrings, que o Python lê como strings e que serão usadas mais pra frente como documentação do código.
+## ✅ Resumo da aula
+- Comentários reais usam # e são ignorados pelo Python.
+- Docstrings são textos criados com """ ou '''.
+- Docstrings não são comentários; elas são strings lidas pelo Python.
+- Podem ser usadas para documentação e explicações longas.
+- Permitem múltiplas linhas de texto.
+- Devem abrir e fechar com o mesmo tipo de aspas triplas.
+- Quando não utilizadas, o programa simplesmente continua a execução.

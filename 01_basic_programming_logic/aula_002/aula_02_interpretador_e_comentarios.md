@@ -27,6 +27,11 @@ Comentários ajudam a:
 * Organizar o código
 * Ajudar outras pessoas a entenderem o programa
 ---
-## Conclusão
 
-Comentários são essenciais para manter o código claro e organizado, principalmente em projetos maiores.
+## ✅ Resumo da aula
+- Comentários são ignorados pelo interpretador Python.
+- Comentários começam com o símbolo #.
+- Tudo após # na linha não é executado.
+- Servem para explicar o funcionamento do código.
+- Ajudam na manutenção e organização do programa.
+- Facilitam o entendimento do código por outras pessoas.

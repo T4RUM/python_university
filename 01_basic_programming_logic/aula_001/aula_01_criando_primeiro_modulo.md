@@ -70,3 +70,12 @@ Porque:
 - Importações podem falhar
 - URLs e caminhos podem quebrar
 - Projetos profissionais evitam isso
+---
+## ✅ Resumo da aula
+- Python organiza o código em arquivos chamados módulos (.py).
+- Projetos devem ser organizados desde o início.
+- O PyCharm pode criar automaticamente a estrutura inicial do projeto.
+- Arquivos Python são criados dentro da pasta do projeto.
+- Nomes de pastas e arquivos devem evitar espaços e caracteres especiais.
+- Utilizar apenas letras, números e _ evita problemas futuros.
+- Boa organização facilita manutenção e evolução do projeto.
