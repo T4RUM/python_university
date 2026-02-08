@@ -1,4 +1,4 @@
-# 🐍 Aula 4 — Função `print()` em Python
+# 🐍 Aula 4: Função `print()` em Python
 
 
 ## 🖨️ O que é a função `print()`?

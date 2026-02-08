@@ -1,4 +1,4 @@
-# 🐍 Aula 2 — Comentários em Python
+# 🐍 Aula 2: Comentários em Python
 
 ## O que são comentários?
 

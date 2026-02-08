@@ -1,4 +1,4 @@
-# 🐍 Aula 1 — Introdução ao Python e criação do primeiro módulo (PyCharm)
+# 🐍 Aula 1: Introdução ao Python e criação do primeiro módulo (PyCharm)
 
 ## 🎯 Objetivo da aula
 Começar o estudo de Python do zero, organizando corretamente o ambiente de trabalho e aprendendo a criar o primeiro arquivo Python.

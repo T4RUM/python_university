@@ -1,4 +1,4 @@
-# 🐍 Aula 5 — Tipo `str` (string) e introdução aos tipos de dados
+# 🐍 Aula 5: Tipo `str` (string) e introdução aos tipos de dados
 ---
 
 ## 📦 O que são tipos de dados?

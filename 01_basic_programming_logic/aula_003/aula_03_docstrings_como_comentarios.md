@@ -1,4 +1,4 @@
-# 🐍 Aula 03 — Docstrings como “comentários”
+# 🐍 Aula 03: Docstrings como “comentários”
 
 Nesta aula aprendemos a diferença entre:
 
