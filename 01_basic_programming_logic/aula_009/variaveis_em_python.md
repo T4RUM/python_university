@@ -41,7 +41,7 @@ idade = 67
 Esse estilo é chamado de snake_case 🐍
 
 ---
-# 🧱 Tipos de dados mais comuns
+## 🧱 Tipos de dados mais comuns
 Até agora, vimos alguns tipos básicos:
 
 | Tipo  | Exemplo          |
@@ -52,7 +52,7 @@ Até agora, vimos alguns tipos básicos:
 | bool  | `True` / `False` |
 
 ---
-# 🧮 Variáveis podem guardar expressões
+## 🧮 Variáveis podem guardar expressões
 Uma variável não precisa receber apenas um valor fixo.
 
 Ela pode receber o resultado de uma conta ou pergunta:
@@ -67,7 +67,7 @@ O resultado será:
 - ```True``` se for maior ou igual a 18
 - ```False``` se não for
 ---
-# 📢 Exibindo valores com print
+## 📢 Exibindo valores com print
 Para mostrar algo na tela, usamos ```print()```:
 ```python
 print(nome)
@@ -75,7 +75,7 @@ print(idade)
 print(maior_de_idade)
 ```
 ---
-# 🔗 Usando variáveis dentro de textos
+## 🔗 Usando variáveis dentro de textos
 Podemos misturar texto com variáveis usando f-strings:
 ```python
 nome = "Uncle Bob"
@@ -84,7 +84,7 @@ print(f"Olá, meu nome é {nome}")
 Isso deixa o código mais claro e organizado.
 
 ---
-# 🔁 Por que usar variáveis?
+## 🔁 Por que usar variáveis?
 Variáveis não servem para abreviar código.
 
 Elas servem para:
@@ -107,7 +107,7 @@ print(numero * 2)
 Agora, se o valor mudar, você altera em um único lugar.
 
 ----
-# ⚠️ Nomes precisam fazer sentido
+## ⚠️ Nomes precisam fazer sentido
 O nome da variável deve refletir o valor que ela guarda.
 
 Errado:
@@ -121,7 +121,7 @@ tem_permissao = True
 Isso evita confusão para você e para outros desenvolvedores.
 
 ---
-🧠 Pensando como programador
+## 🧠 Pensando como programador
 Quando criamos variáveis:
 - guardamos algo na memória
 - damos um nome claro
@@ -130,7 +130,7 @@ Quando criamos variáveis:
 Esse conceito é fundamental e será usado durante toda a nossa vida como programadores.
 
 ---
-# ✅ Resumo da aula
+## ✅ Resumo da aula
 - Variáveis guardam valores na memória.
 - Usamos = para atribuir valores.
 - PEP 8 define boas práticas de nomes.
